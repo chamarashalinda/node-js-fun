@@ -7,6 +7,7 @@ const server = http.createServer((request, response) => {
   // set header content type
   response.setHeader('Content-Type', 'text/html');
 
+  // Simple routing
   let path = './views/';
   response.statusCode = 200;
 

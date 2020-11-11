@@ -1,0 +1,18 @@
+{
+  "name": "chapter_2_http_request_and_response",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Chamara Shainda",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
